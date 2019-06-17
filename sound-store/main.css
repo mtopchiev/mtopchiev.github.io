@@ -114,6 +114,7 @@ nav {
 main {
     display: flex;
     flex-grow: 1;
+    min-height: calc(100vh - 240px);
 }
 
 /* aside блок */
