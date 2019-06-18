@@ -8,7 +8,10 @@
 font-family: 'Myriad Pro';
 src: url('font/8143.otf');
 }
-
+.wrapper {
+    position: relative;
+    overflow: hidden;
+}
 
 body {
 
@@ -21,6 +24,7 @@ body {
     font-size: 10px;
     position: relative;
     cursor: default;
+
 }
 
 .EDIO {
@@ -230,7 +234,7 @@ main {
   transition: .2s ease-in-out;
   transform: translateX(22px);}
 
-  .menu-link:after {
+  .menu-link::after {
     content: '';
     position: absolute;
     bottom: 0;
@@ -238,7 +242,7 @@ main {
     left: 0;
     border-bottom: 1px solid #ccc;
     transition: .2s ease-in-out;
-    transform: translateX(8px);
+    transform: translateX(-8px);
 }
 
   .menu-link:hover {
