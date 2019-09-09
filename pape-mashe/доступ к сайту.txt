@@ -1,0 +1,16 @@
+http://pape-mashe.narod.ru/admin
+http://pape-mashe.narod.ru/panel/?a=ftppass
+
+Пароль администратора: 8GbNF2rxIo
+uID пароль: 5RjdJZjYJv
+секретный вопрос как мое имя
+
+ульянаеловских
+
+FTP доступ: 
+FTP host: pape-mashe.narod.ru
+FTP login: opape-mashe
+пароль 33RjdJZj12Jv
+
+
+пароль к статистике liveinternet: energy
